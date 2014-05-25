@@ -1,14 +1,13 @@
 latitude, longitude, waypoint, comment
 39.998805, -105.282919, C-TH, Trail Head at Ranger Station
-39.997099, -105.285676, C-SKI0, Chautauqua Trail Y with Ski Jump Trail
+39.997099, -105.285676, C-SKI0, Chautauqua Y with Ski Jump
 39.996718, -105.286679, C-SKI1,
 39.997023, -105.287640, C-SKI2,
 39.996398, -105.289163, C-SKI3,
 39.996480, -105.290826, C-SKI4,
-39.997497, -105.291991, C-BL0, Ski Jump Trail T with Baseline Trail
-39.997483, -105.292692, C-BL1, Baseline Trail meets Gregory Canyon Road
-39.997489, -105.292822, C-GC0, Gregory Canyon Trail meets Gregory Canyon Road
-39.997453, -105.293862, C-GC1,
+39.997497, -105.291991, C-BL0, Ski Jump T with Baseline
+39.997481, -105.292746, C-BL1, Baseline connects to Gregory Canyon via short road segment
+39.997453, -105.293862, C-GC0,
 39.998169, -105.295687, C-CR0, Gregory Canyon Trail Y with Crown Rock Trail
 39.998330, -105.295328, C-CR1,
 39.998975, -105.296256, C-CR2,
@@ -16,5 +15,5 @@ latitude, longitude, waypoint, comment
 39.999943, -105.296188, C-CR4,
 40.000003, -105.296722, C-CR5,
 40.001366, -105.296837, C-CR6,
-40.001914, -105.297066, C-FS0, Crown Rock Trail T with Flagstaff Trail at Flagstaff Road
+40.001914, -105.297066, C-FS0, Crown Rock T with Flagstaff Trail at Flagstaff Road
 40.002355, -105.297186, C-FS1,
