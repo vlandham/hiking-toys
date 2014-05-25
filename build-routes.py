@@ -12,9 +12,10 @@ def convertToJSON(csvPath,jsonPath):
 			skipHeader = False
 		else:
 			(lat,lon,waypoint,comment) = line.split(",")
-			model["coordinates"].append([float(lat), float(lon)]) 
+			model["coordinates"].append([float(lon), float(lat)]) 
 
 	csvFile.close()
+	#print json.dumps(model)
 	jsonFile = open(jsonPath,"w")
 	jsonFile.write(json.dumps(model))
 	jsonFile.close()
