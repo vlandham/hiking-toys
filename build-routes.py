@@ -36,7 +36,7 @@ for name in listdir(csvDir):
 	if isfile(path) and path.endswith(".csv"):
 		baseName = name[:-4]
 		csvPath  = join(csvDir,"{}.csv".format(baseName))
-		jsonPath = join(jsonDir,"{}.json".format(baseName))
+		jsonPath = join(jsonDir,"{}.geojson".format(baseName))
 		gpxPath  = join(gpxDir,"{}.gpx".format(baseName))
 
 		print "Converting '{}':".format(csvPath)
