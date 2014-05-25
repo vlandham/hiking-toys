@@ -4,7 +4,16 @@ import json
 
 def convertToJSON(csvPath,jsonPath):
 	csvFile = open(csvPath,"r")
-	model = { "type": "LineString", "coordinates": [] }
+	model = { "type": "FeatureCollection", "features": [] }
+	lineString = {
+		"type": "Feature",
+		"geometry": {
+			"type": "LineString",
+			"coordinates": []
+			},
+		"properties": {}
+		}
+	model["features"].append(lineString)
 
 	skipHeader = True
 	for line in csvFile:
@@ -12,7 +21,18 @@ def convertToJSON(csvPath,jsonPath):
 			skipHeader = False
 		else:
 			(lat,lon,waypoint,comment) = line.split(",")
-			model["coordinates"].append([float(lon), float(lat)]) 
+			lineString["geometry"]["coordinates"].append([float(lon), float(lat)]) 
+			if comment.strip() != "":
+				marker = {
+					"type": "Feature",
+					"geometry": {
+						"type": "Point",
+						"coordinates": [float(lon), float(lat)]
+						},
+					"properties": { "name": comment.strip() }
+					}
+				model["features"].append(marker)
+				
 
 	csvFile.close()
 	#print json.dumps(model)
