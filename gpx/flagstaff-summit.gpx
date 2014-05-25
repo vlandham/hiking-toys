@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+creator="Foretrex 401"
+version="1.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+<wpt lat="39.998805" lon="-105.282919">
+<ele>1828.00</ele><name>TH</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.997099" lon="-105.285676">
+<ele>1828.00</ele><name>SKI0</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.996718" lon="-105.286679">
+<ele>1828.00</ele><name>SKI1</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.997023" lon="-105.287640">
+<ele>1828.00</ele><name>SKI2</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.996398" lon="-105.289163">
+<ele>1828.00</ele><name>SKI3</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.996480" lon="-105.290826">
+<ele>1828.00</ele><name>SKI4</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.997497" lon="-105.291991">
+<ele>1828.00</ele><name>BL0</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.997481" lon="-105.292746">
+<ele>1828.00</ele><name>BL1</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.997453" lon="-105.293862">
+<ele>1828.00</ele><name>GC0</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.998169" lon="-105.295687">
+<ele>1828.00</ele><name>CR0</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.998330" lon="-105.295328">
+<ele>1828.00</ele><name>CR1</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.998975" lon="-105.296256">
+<ele>1828.00</ele><name>CR2</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.999367" lon="-105.295733">
+<ele>1828.00</ele><name>CR3</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="39.999943" lon="-105.296188">
+<ele>1828.00</ele><name>CR4</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.000003" lon="-105.296722">
+<ele>1828.00</ele><name>CR5</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.001366" lon="-105.296837">
+<ele>1828.00</ele><name>CR6</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.001914" lon="-105.297066">
+<ele>1828.00</ele><name>FS00</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.002355" lon="-105.297186">
+<ele>1828.00</ele><name>FS01</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.002158" lon="-105.297561">
+<ele>1828.00</ele><name>FS02</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.002509" lon="-105.297524">
+<ele>1828.00</ele><name>FS03</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.002330" lon="-105.297787">
+<ele>1828.00</ele><name>FS04</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.003054" lon="-105.297851">
+<ele>1828.00</ele><name>FS05</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.002371" lon="-105.299388">
+<ele>1828.00</ele><name>FS06</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.001195" lon="-105.299513">
+<ele>1828.00</ele><name>FS07</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.000349" lon="-105.301114">
+<ele>1828.00</ele><name>FS08</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.000439" lon="-105.302182">
+<ele>1828.00</ele><name>FS09</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.002489" lon="-105.303094">
+<ele>1828.00</ele><name>FS10</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.003399" lon="-105.304878">
+<ele>1828.00</ele><name>FS11</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.004028" lon="-105.303775">
+<ele>1828.00</ele><name>FS12</name>
+<sym>Waypoint</sym></wpt>
+<wpt lat="40.003680" lon="-105.300796">
+<ele>1828.00</ele><name>FS13</name>
+<sym>Waypoint</sym></wpt>
+<rte><name>TH-FS13</name>
+<rtept lat="39.998805" lon="-105.282919"><name>TH</name></rtept><rtept lat="39.997099" lon="-105.285676"><name>SKI0</name></rtept><rtept lat="39.996718" lon="-105.286679"><name>SKI1</name></rtept><rtept lat="39.997023" lon="-105.287640"><name>SKI2</name></rtept><rtept lat="39.996398" lon="-105.289163"><name>SKI3</name></rtept><rtept lat="39.996480" lon="-105.290826"><name>SKI4</name></rtept><rtept lat="39.997497" lon="-105.291991"><name>BL0</name></rtept><rtept lat="39.997481" lon="-105.292746"><name>BL1</name></rtept><rtept lat="39.997453" lon="-105.293862"><name>GC0</name></rtept><rtept lat="39.998169" lon="-105.295687"><name>CR0</name></rtept><rtept lat="39.998330" lon="-105.295328"><name>CR1</name></rtept><rtept lat="39.998975" lon="-105.296256"><name>CR2</name></rtept><rtept lat="39.999367" lon="-105.295733"><name>CR3</name></rtept><rtept lat="39.999943" lon="-105.296188"><name>CR4</name></rtept><rtept lat="40.000003" lon="-105.296722"><name>CR5</name></rtept><rtept lat="40.001366" lon="-105.296837"><name>CR6</name></rtept><rtept lat="40.001914" lon="-105.297066"><name>FS00</name></rtept><rtept lat="40.002355" lon="-105.297186"><name>FS01</name></rtept><rtept lat="40.002158" lon="-105.297561"><name>FS02</name></rtept><rtept lat="40.002509" lon="-105.297524"><name>FS03</name></rtept><rtept lat="40.002330" lon="-105.297787"><name>FS04</name></rtept><rtept lat="40.003054" lon="-105.297851"><name>FS05</name></rtept><rtept lat="40.002371" lon="-105.299388"><name>FS06</name></rtept><rtept lat="40.001195" lon="-105.299513"><name>FS07</name></rtept><rtept lat="40.000349" lon="-105.301114"><name>FS08</name></rtept><rtept lat="40.000439" lon="-105.302182"><name>FS09</name></rtept><rtept lat="40.002489" lon="-105.303094"><name>FS10</name></rtept><rtept lat="40.003399" lon="-105.304878"><name>FS11</name></rtept><rtept lat="40.004028" lon="-105.303775"><name>FS12</name></rtept><rtept lat="40.003680" lon="-105.300796"><name>FS13</name></rtept></rte>
+</gpx>
