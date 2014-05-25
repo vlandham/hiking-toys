@@ -1,7 +1,7 @@
 hiking-toys
 ===========
 
-Python script for planning hiking trips with a Garmin [Foretrex® 401](https://buy.garmin.com/en-US/US/on-the-trail/wrist-worn/foretrex-401/prod30026.html) GPS.
+Python scripts for planning hiking trips with a Garmin [Foretrex® 401](https://buy.garmin.com/en-US/US/on-the-trail/wrist-worn/foretrex-401/prod30026.html) GPS.
 
 Basically this just reads a list of CSV waypoints formatted like
 ```
