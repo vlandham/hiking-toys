@@ -15,5 +15,17 @@ latitude, longitude, waypoint, comment
 39.999943, -105.296188, C-CR4,
 40.000003, -105.296722, C-CR5,
 40.001366, -105.296837, C-CR6,
-40.001914, -105.297066, C-FS0, Crown Rock T with Flagstaff Trail at Flagstaff Road
-40.002355, -105.297186, C-FS1,
+40.001914, -105.297066, C-FS00, Crown Rock T with Flagstaff Trail at Flagstaff Road
+40.002355, -105.297186, C-FS01, Start of switchbacks
+40.002158, -105.297561, C-FS02,
+40.002509, -105.297524, C-FS03,
+40.002330, -105.297787, C-FS04,
+40.003054, -105.297851, C-FS05,
+40.002371, -105.299388, C-FS06, Cross Flagstaff Road
+40.001195, -105.299513, C-FS07,
+40.000349, -105.301114, C-FS08,
+40.000439, -105.302182, C-FS09, Cross Flagstaff Road
+40.002489, -105.303094, C-FS10,
+40.003399, -105.304878, C-FS11, Flagstaff Trail Meets Flagstaff Summit Road
+40.004028, -105.303775, C-FS12, Parking lot
+40.003680, -105.300796, C-FS13, Amphitheater
