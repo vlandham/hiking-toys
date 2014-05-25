@@ -29,7 +29,10 @@ def convertToJSON(csvPath,jsonPath):
 						"type": "Point",
 						"coordinates": [float(lon), float(lat)]
 						},
-					"properties": { waypoint.strip() : comment.strip() }
+					"properties": {
+						"waypoint": waypoint.strip(),
+						"comment": comment.strip()
+						}
 					}
 				model["features"].append(marker)
 				
